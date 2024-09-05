@@ -1,0 +1,19 @@
+{
+  "name": "pratica_17-criado_atualizado",
+  "version": "1.0.0",
+  "description": "Criação de jogos, linkando gênero e estúdio, porém utilizando datas e horas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
